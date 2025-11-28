@@ -1,0 +1,7 @@
+{
+  "name": "Mama Ai - The Love guru",
+  "description": "A warm, wise, and nurturing conversational AI voice app and relationship predictor.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
